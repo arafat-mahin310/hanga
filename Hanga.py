@@ -435,7 +435,7 @@ class Main:
 			print("    Thanks bro")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/arafatmahin310.40s/")
+			os.system("xdg-open https://www.facebook.com/arafatmahin310")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    Checking Approval ")
